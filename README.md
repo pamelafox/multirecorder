@@ -18,4 +18,4 @@ Usage
 Many of these methods will return Deferreds, which will resolve and pass a Recorder object as an argument. You can then store those objects for later use (like to combine), and call methods like
 createAudioPlayer and createDownloadLink.
 
-Check out multirecorder.html to really see how to use it!
+Check out [multirecorder.html](http://pamelafox.github.io/multirecorder/multirecorder.html) to really see how to use it!
